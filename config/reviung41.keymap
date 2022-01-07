@@ -59,7 +59,7 @@
 // -----------------------------------------------------------------------------------------
 // | RGB BRI+ | RGB SAT+ | RGB HUE+ | RGB ANI+ |    | RGB TOG |   |  BT1  | BT2 | BT3 | BT4 | BT5 | BT CLR |
 // | RGB BRI- | RGB SAT- | RGB HUE- | RGB ANI- |    |         |   |       |     |     |     |     |        |
-// |          |          |          |          |    | K_SLEEP |   | RESET |     |     |     |     |        |
+// |          |          |          |          |    |  SLEEP  |   | RESET |     |     |     |     |        |
 //                                              |     |     |     |     |     |
                         bindings = <
    &rgb_ug RGB_BRI &rgb_ug RGB_SAI &rgb_ug RGB_HUI &rgb_ug RGB_EFF &none &rgb_ug RGB_TOG    &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4 &bt BT_CLR
