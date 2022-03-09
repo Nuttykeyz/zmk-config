@@ -59,7 +59,7 @@
                 adjust_layer {
 // -----------------------------------------------------------------------------------------
 // | RGB BRI+ | RGB SAT+ | RGB HUE+ | RGB ANI+ |    | RGB TOG |   |  BT1  | BT2 | BT3 | BT4 | BT5 | BT CLR |
-// | RGB BRI- | RGB SAT- | RGB HUE- | RGB ANI- |    |         |   |       |     |     |     |     |        |
+// | RGB BRI- | RGB SAT- | RGB HUE- | RGB ANI- |    |         |   | EP_TOG|     |     |     |     |        |
 // |          |          |          |          |    | K_SLEEP |   | RESET |     |     |     |     |        |
 //                                              |     |     |     |     |     |
                         bindings = <
